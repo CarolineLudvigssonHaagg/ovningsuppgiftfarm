@@ -1,0 +1,3 @@
+Äpple,23,1,Frukt
+Blåbär,3784,2,Bär
+Morot,2,3,Grönsak

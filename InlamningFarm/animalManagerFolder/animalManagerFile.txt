@@ -1,0 +1,3 @@
+Hund,1,Stina:Äpple,23,1,Frukt
+Häst,2,Kalle:Morot,2,3,Grönsak@Blåbär,3784,2,Bär
+Katt,3,Bosse:Blåbär,3784,2,Bär
